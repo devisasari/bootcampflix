@@ -1,3 +1,10 @@
+# Bootcampflix
+
+Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım proje. 
+Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
+
+Detayları daha sonra ekleyeceğim.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
