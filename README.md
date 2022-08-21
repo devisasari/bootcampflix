@@ -1,9 +1,29 @@
 # Bootcampflix
 
-Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım proje. 
+[TR]
+![ENGLISH BELOW]
+
+Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım projedir.
+<br>
+<br>
 Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
 
-Detayları daha sonra ekleyeceğim.
+Kullandığım Teknolojiler: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
+
+Özellikler: Filmleri göster, scrollayabileceğiniz kategorilere ayrılmış ana sayfa, kullanıcı kaydı, kullanıcı girişi, favori filmlerinizi ekleme özelliği (session 
+storage), responsive tasarım, kaydırılabilir film listesi.
+
+[ENGLISH] (will be edited later)
+
+Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım projedir.
+<br>
+<br>
+Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
+
+Technologies: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
+
+Features: Display movies, category related page with scroll, user sign up, user sign in, add/remove to/from "My list" functionality, favorites list persistence 
+(session storage), responsive layout, swipeable movies list
 
 # Getting Started with Create React App
 
