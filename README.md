@@ -1,28 +1,25 @@
 # Bootcampflix
 
-[TR]
-![ENGLISH BELOW]
+### [TR]
 
-Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım projedir.
-<br>
-<br>
-Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
+- Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
 
-Kullandığım Teknolojiler: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
+- Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım projedir.
 
-Özellikler: Filmleri göster, scrollayabileceğiniz kategorilere ayrılmış ana sayfa, kullanıcı kaydı, kullanıcı girişi, favori filmlerinizi ekleme özelliği (session 
-storage), responsive tasarım, kaydırılabilir film listesi.
+- Kullandığım Teknolojiler: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
 
-[ENGLISH] (will be edited later)
+- Özellikler: Filmleri göster, scrollayabileceğiniz kategorilere ayrılmış ana sayfa, kullanıcı kaydı, kullanıcı girişi, favori filmlerinizi ekleme özelliği (session 
+storage), responsive tasarım ve kaydırılabilir film listesi.
 
-Bootcampflix, Kodluyoruz Bursa Front-End Development Bootcamp'inin sonunda hazırladığım projedir.
-<br>
-<br>
-Projeye şuradan ulaşabilirsiniz: https://bootcampflix.web.app/
+### [ENGLISH]
 
-Technologies: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
+- I created Bootcampflix as my final project for the Front-End Development Bootcamp. 
 
-Features: Display movies, category related page with scroll, user sign up, user sign in, add/remove to/from "My list" functionality, favorites list persistence 
+- The project's website is available at https://bootcampflix.web.app/
+
+- Technologies: ReactJS, Tailwind CSS, Firebase, React Router, React Icons, TMDB API
+
+- Features: Display movies, category related page with scroll, user sign up, user sign in, add/remove to/from "My list" functionality, favorites list persistence 
 (session storage), responsive layout, swipeable movies list
 
 # Getting Started with Create React App
